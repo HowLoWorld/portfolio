@@ -1,2 +1,2 @@
 # portfolio
-https://github.com/fulljoinme/bellabeatproject
+https://github.com/fulljoinme/bellabeatproject/blob/main/bellabeat.md
